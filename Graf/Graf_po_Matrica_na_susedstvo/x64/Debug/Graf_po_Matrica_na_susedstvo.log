@@ -1,0 +1,4 @@
+﻿  Graf_po_Matrica_na_susedstvo.cpp
+C:\Users\user\Desktop\CodeC++\Graf\Graf_po_Matrica_na_susedstvo\Graf_po_Matrica_na_susedstvo.cpp(79,5): error C2601: 'main': local function definitions are illegal
+C:\Users\user\Desktop\CodeC++\Graf\Graf_po_Matrica_na_susedstvo\Graf_po_Matrica_na_susedstvo.cpp(72): message : this line contains a '{' which has not yet been matched
+C:\Users\user\Desktop\CodeC++\Graf\Graf_po_Matrica_na_susedstvo\Graf_po_Matrica_na_susedstvo.cpp(72): fatal  error C1075: '{': no matching token found
